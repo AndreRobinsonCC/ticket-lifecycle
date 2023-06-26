@@ -8,10 +8,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com/watch?v=l_xQASSZoYU)
 
 <h2>Environments and Technologies Used</h2>
-
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
