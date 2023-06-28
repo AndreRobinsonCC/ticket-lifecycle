@@ -48,6 +48,6 @@ Active tickets and assignments for Users and Agents.
 <img src="https://github.com/AndreRobinsonCC/ticket-lifecycle/assets/133404844/79845650-4ace-469d-ac29-7219c84da054" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Active ticket being set up before being assigned to Agent or User
+Active ticket set up before being assigned to Agents or Users
 </p>
 <br />
